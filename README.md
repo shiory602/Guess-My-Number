@@ -13,4 +13,4 @@ This is a game app which is just for practice.
 
 # All references from
 
-[complete-javascript-course](www.udemy.com/the-complete-javascript-course/?couponcode=c3github10)
+[complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
